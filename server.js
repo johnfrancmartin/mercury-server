@@ -16,7 +16,7 @@ var mercury = require('@postlight/mercury-parser');
 
 var app = express();
 
-var PORT = 3000;
+var PORT = 8080;
 
 // GET method route
 app.get('/', function(req, res) {
